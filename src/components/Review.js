@@ -158,7 +158,7 @@ const Review = () => {
           cursor: "pointer",
         }}
       >
-        Surprise Me
+        surprise me
       </button>
     </article>
   );
